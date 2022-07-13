@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SNAKES AND LADDERS</string>
+    <string name="welcome">WELCOME TO TWISTED SNAKES AND LADDERS</string>
+    <string name="num">0</string>
+    <string name="ply1">player 1</string>
+    <string name="ply2">player 2</string>
+</resources>
